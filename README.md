@@ -9,21 +9,36 @@ ____
 
 Algumas tecnologias que eu uso no dia a dia!
 
-Backend: 
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+<h3><details>
+<summary align="left">📦 Languages and tools</summary>
+<br>
 
-Frontend
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+  ## Languages
+  ![My tools](https://skillicons.dev/icons?i=html,css,markdown)
+  <hr>
 
-Database:
-![MySql](https://img.shields.io/badge/-Mysql-black?style=flat-square&logo=Mysql)
+  ![My tools](https://skillicons.dev/icons?i=py,js,rust,kotlin,go,typescript,zig,c,cpp)
+  
+  ### interest in languages
+  - 💜 I love: JavaScript (Server-side), Rust, Go, Zig, C and C++
+  - 😁 I like: Kotlin, Typescript (Ugly) and JavaScript (Client-side)
+  - 🤨 I only use it when needed: Python
+  - 😔 Very specific cases: C# and PHP
+  - 📄 Markup and styling languages: HTML, CSS and Markdown
+  - 🤬 Especially hateful: C#
 
-Tools:
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+  <hr>
+  
+  ### JavaScript runtimes
 
-IDEs:
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+  ![My tools](https://skillicons.dev/icons?i=nodejs,deno)
+
+  <br>
+
+  ## Tools
+  ![My tools](https://skillicons.dev/icons?i=git,github,discord,mongodb,firebase,vscode,vercel,replit,androidstudio,figma)
+  ## Frameworks
+  ![My tools](https://skillicons.dev/icons?i=nextjs,react,electron,express,svelte) 
+
+
+</details></h3>
