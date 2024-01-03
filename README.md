@@ -17,28 +17,20 @@ Algumas tecnologias que eu uso no dia a dia!
   ![My tools](https://skillicons.dev/icons?i=html,css,markdown)
   <hr>
 
-  ![My tools](https://skillicons.dev/icons?i=py,js,rust,kotlin,go,typescript,zig,c,cpp)
-  
-  ### interest in languages
-  - 💜 I love: JavaScript (Server-side), Rust, Go, Zig, C and C++
-  - 😁 I like: Kotlin, Typescript (Ugly) and JavaScript (Client-side)
-  - 🤨 I only use it when needed: Python
-  - 😔 Very specific cases: C# and PHP
-  - 📄 Markup and styling languages: HTML, CSS and Markdown
-  - 🤬 Especially hateful: C#
+  ![My tools](https://skillicons.dev/icons?i=js,c)
 
   <hr>
   
   ### JavaScript runtimes
 
-  ![My tools](https://skillicons.dev/icons?i=nodejs,deno)
+  ![My tools](https://skillicons.dev/icons?i=nodejs)
 
   <br>
 
   ## Tools
-  ![My tools](https://skillicons.dev/icons?i=git,github,discord,mongodb,firebase,vscode,vercel,replit,androidstudio,figma)
+  ![My tools](https://skillicons.dev/icons?i=git,github,discord,firebase,vscode,figma)
   ## Frameworks
-  ![My tools](https://skillicons.dev/icons?i=nextjs,react,electron,express,svelte) 
+  ![My tools](https://skillicons.dev/icons?i=react,electron) 
 
 
 </details></h3>
