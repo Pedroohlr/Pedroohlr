@@ -11,6 +11,7 @@ ____
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Pedroohlr&layout=compact&theme=transparent&border_color=00000000&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
 ## ⚡ Technologies
 
 Algumas tecnologias que eu uso no dia a dia!
