@@ -24,7 +24,7 @@ Algumas tecnologias que eu uso no dia a dia!
   ![My tools](https://skillicons.dev/icons?i=html,css,markdown)
   <hr>
 
-  ![My tools](https://skillicons.dev/icons?i=js,c)
+  ![My tools](https://skillicons.dev/icons?i=js,c,ts)
 
   <hr>
   
@@ -37,7 +37,7 @@ Algumas tecnologias que eu uso no dia a dia!
   ## Tools
   ![My tools](https://skillicons.dev/icons?i=git,github,discord,firebase,vscode,figma)
   ## Frameworks
-  ![My tools](https://skillicons.dev/icons?i=react,electron) 
+  ![My tools](https://skillicons.dev/icons?i=vue,electron) 
 
 
 </details></h3>
