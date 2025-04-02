@@ -37,7 +37,7 @@ Algumas tecnologias que eu uso no dia a dia!
   ## Tools
   ![My tools](https://skillicons.dev/icons?i=git,github,discord,firebase,vscode,figma)
   ## Frameworks
-  ![My tools](https://skillicons.dev/icons?i=vue,electron,react,) 
+  ![My tools](https://skillicons.dev/icons?i=vue,electron,react,next,tailwind,bootstrap) 
 
 
 </details></h3>
