@@ -1,4 +1,4 @@
-# Pedro Hilário 👋
+# Pedro Hilário 
 **Desenvolvedor Frontend • Backend • Mobile**  
 Uberaba - MG • Construo aplicações completas, do layout à infraestrutura, com foco em performance e boa experiência de uso.
 
@@ -9,7 +9,7 @@ Uberaba - MG • Construo aplicações completas, do layout à infraestrutura, c
 
 ## Sobre mim
 - 🚀 Atuação: **Frontend, Backend e Mobile**
-- 🧩 Stack principal: **React / Next.js / Node.js / NestJS / PHP / Laravel**
+- 🧩 Stack principal: **React / Next.js / React Native / Node.js / NestJS / PHP / Laravel**
 - 🗄️ Banco de dados: **PostgreSQL / MySQL**
 - 🐳 Infra: **Docker**
 - 🛠️ Ferramentas: **Git, Figma, Firebase**
@@ -17,8 +17,11 @@ Uberaba - MG • Construo aplicações completas, do layout à infraestrutura, c
 ---
 
 ## Tecnologias
-### Frontend
+### Frontend e Mobile
 ![Frontend](https://skillicons.dev/icons?i=react,next,tailwind,bootstrap)
+![Mobile](https://skillicons.dev/icons?i=react)
+
+> React Native (Mobile)
 
 ### Backend
 ![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,php,laravel)
