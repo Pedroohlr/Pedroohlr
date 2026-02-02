@@ -18,10 +18,8 @@ Uberaba - MG • Construo aplicações completas, do layout à infraestrutura, c
 
 ## Tecnologias
 ### Frontend e Mobile
-![Frontend](https://skillicons.dev/icons?i=react,next,tailwind,bootstrap)
+![Frontend](https://skillicons.dev/icons?i=react,next,tailwind,bootstrap,react-native)
 ![Mobile](https://skillicons.dev/icons?i=react)
-
-> React Native (Mobile)
 
 ### Backend
 ![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,php,laravel)
