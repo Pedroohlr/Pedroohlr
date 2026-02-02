@@ -28,19 +28,3 @@ Uberaba - MG • Construo aplicações completas, do layout à infraestrutura, c
 
 ### Ferramentas
 ![Tools](https://skillicons.dev/icons?i=git,github,figma,firebase,vscode)
-
----
-
-## Estatísticas
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pedroohlr&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroohlr&layout=compact&theme=github_dark&hide_border=true" />
-</div>
-
----
-
-## Projetos em destaque
-> Fixe seus melhores repositórios aqui (adicione 3–5).
-- **Projeto 1** — descrição curta (link)
-- **Projeto 2** — descrição curta (link)
-- **Projeto 3** — descrição curta (link)
