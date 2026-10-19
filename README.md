@@ -1,5 +1,5 @@
 # Pedro Hilário 
-**Desenvolvedor Frontend • Backend • Mobile**  
+**Desenvolvedor Full Stacl**  
 Uberaba - MG • Construo aplicações completas, do layout à infraestrutura, com foco em performance e boa experiência de uso.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Hil%C3%A1rio-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-hilario-2b2b742a3/)
