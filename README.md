@@ -1,31 +1,38 @@
-# Pedro Hilário 
-**Desenvolvedor Full Stacl**  
-Uberaba - MG • Construo aplicações completas, do layout à infraestrutura, com foco em performance e boa experiência de uso.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Hil%C3%A1rio-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-hilario-2b2b742a3/)
-[![Email](https://img.shields.io/badge/Email-pedro171416%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pedro171416@gmail.com)
+<h1 align="center">Pedro Hilário</h1>
+<p align="center">
+  <b>Desenvolvedor Full Stack</b> · Uberaba, MG 🇧🇷<br/>
+  Construo aplicações completas, do layout à infraestrutura, com foco em performance e boa experiência de uso.
+</p>
 
----
-
-## Sobre mim
-- 🚀 Atuação: **Frontend, Backend e Mobile**
-- 🧩 Stack principal: **React / Next.js / React Native / Node.js / NestJS / PHP / Laravel**
-- 🗄️ Banco de dados: **PostgreSQL / MySQL**
-- 🐳 Infra: **Docker**
-- 🛠️ Ferramentas: **Git, Figma, Firebase**
+<p align="center">
+  <a href="https://www.linkedin.com/in/pedro-hilario-2b2b742a3/"><img src="https://img.shields.io/badge/LinkedIn-Pedro%20Hil%C3%A1rio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:pedro171416@gmail.com"><img src="https://img.shields.io/badge/Email-pedro171416%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
-## Tecnologias
-### Frontend e Mobile
-![Frontend](https://skillicons.dev/icons?i=react,next,tailwind,bootstrap,)
-![Mobile](https://skillicons.dev/icons?i=react)
+## 👨‍💻 Sobre mim
+- 🚀 Trabalho com **Frontend, Backend e Mobile**
+- 🔭 Atualmente: <!-- ex: construindo X com Next.js + NestJS -->
+- 🌱 Estudando: <!-- ex: testes automatizados, arquitetura, CI/CD -->
+- 💬 Pergunte-me sobre: React, Node.js, Laravel
+- 📫 Aberto a oportunidades e projetos freelance
 
-### Backend
-![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,php,laravel)
+## 🛠️ Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,next,tailwind,nodejs,nestjs,php,laravel,postgres,mysql,docker,firebase,git,github,figma,vscode" />
+</p>
 
-### Banco de dados e Infra
-![Infra](https://skillicons.dev/icons?i=postgres,mysql,docker)
+## 📌 Projetos em destaque
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [**nome-do-projeto**](link) | O que faz e qual problema resolve, em uma linha | Next.js · NestJS · PostgreSQL |
+| [**nome-do-projeto**](link) | Idem | React Native · Firebase |
+| [**nome-do-projeto**](link) | Idem | Laravel · MySQL · Docker |
 
-### Ferramentas
-![Tools](https://skillicons.dev/icons?i=git,github,figma,firebase,vscode)
+## 📊 GitHub
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true" />
+</p>
