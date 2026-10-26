@@ -2,7 +2,7 @@
 <h1 align="center">Pedro Hilário</h1>
 <p align="center">
   <b>Desenvolvedor Full Stack</b> · Uberaba, MG 🇧🇷<br/>
-  Construo aplicações completas, do layout à infraestrutura, com foco em performance e boa experiência de uso.
+  Construo aplicações completas, do layout à infraestrutura, com foco em performance, segurança e boa experiência de uso.
 </p>
 
 <p align="center">
@@ -13,26 +13,32 @@
 ---
 
 ## 👨‍💻 Sobre mim
-- 🚀 Trabalho com **Frontend, Backend e Mobile**
-- 🔭 Atualmente: <!-- ex: construindo X com Next.js + NestJS -->
-- 🌱 Estudando: <!-- ex: testes automatizados, arquitetura, CI/CD -->
-- 💬 Pergunte-me sobre: React, Node.js, Laravel
+- 🚀 Atuo em **Frontend, Backend e Mobile**
+- 🔐 Conhecimento em **Cybersecurity**: boas práticas de segurança, autenticação e proteção de aplicações
+- 🏗️ Interesse e experiência em **System Design**: arquitetura, escalabilidade e infraestrutura
 - 📫 Aberto a oportunidades e projetos freelance
 
 ## 🛠️ Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,next,tailwind,nodejs,nestjs,php,laravel,postgres,mysql,docker,firebase,git,github,figma,vscode" />
-</p>
+**Linguagens e frameworks**
 
-## 📌 Projetos em destaque
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [**nome-do-projeto**](link) | O que faz e qual problema resolve, em uma linha | Next.js · NestJS · PostgreSQL |
-| [**nome-do-projeto**](link) | Idem | React Native · Firebase |
-| [**nome-do-projeto**](link) | Idem | Laravel · MySQL · Docker |
+![Frontend](https://skillicons.dev/icons?i=ts,js,react,next,tailwind,bootstrap)
+![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,php,laravel)
+
+**Banco de dados e infra**
+
+![Infra](https://skillicons.dev/icons?i=postgres,mysql,docker)
+
+**Ferramentas**
+
+![Tools](https://skillicons.dev/icons?i=git,github,figma,firebase,vscode)
+
+## 🎯 Áreas de conhecimento
+- **Desenvolvimento:** aplicações web e mobile do layout ao deploy
+- **Cybersecurity:** segurança de aplicações, autenticação/autorização, proteção de dados
+- **System Design:** arquitetura de sistemas, APIs, modelagem de banco, escalabilidade
 
 ## 📊 GitHub
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Pedroohlr&show_icons=true&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroohlr&layout=compact&hide_border=true" />
 </p>
